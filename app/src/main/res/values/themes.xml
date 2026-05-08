@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NimmaGuru" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        <!-- Material 3 uses colorPrimaryContainer instead of colorPrimaryVariant -->
+        <item name="colorPrimaryContainer">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#388E3C</item>
+    </style>
+    <style name="Widget.Material3.Button.Error" parent="Widget.Material3.Button">
+        <item name="backgroundTint">#B00020</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

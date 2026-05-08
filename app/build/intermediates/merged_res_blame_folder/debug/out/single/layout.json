@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_guru_detail.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_guru_detail.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_session_schedule.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_session_schedule.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_guru_profile_setup.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_guru_profile_setup.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_guru_dashboard.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_guru_dashboard.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_settings.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_wall_of_fame.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_wall_of_fame.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_calendar.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_splash.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-36:/layout/activity_student_home.xml",
+        "source": "com.nimmaguru.app-main-39:/layout/activity_student_home.xml"
+    }
+]

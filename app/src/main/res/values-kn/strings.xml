@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ನಿಮ್ಮ-ಗುರು</string>
+    <string name="tagline">ಜ್ಞಾನ-ದಾನ: ಜ್ಞಾನದ ಉಡುಗೊರೆಯನ್ನು ನೀಡಿ</string>
+    <string name="i_am_guru">ನಾನು ಗುರು</string>
+    <string name="i_am_student">ನಾನು ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="verify_otp">OTP ಪರಿಶೀಲಿಸಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="bio">ಸಣ್ಣ ಬಯೋ</string>
+    <string name="village">ಗ್ರಾಮ/ಪ್ರದೇಶ</string>
+    <string name="pincode">ಪಿನ್ ಕೋಡ್</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="subjects">ವಿಷಯ ಕೌಶಲ್ಯಗಳು</string>
+    <string name="free_hours">ಉಚಿತ ಗಂಟೆಗಳು/ದಿನಗಳು</string>
+    <string name="math">ಗಣಿತ</string>
+    <string name="science">ವಿಜ್ಞಾನ</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="carpentry">ಬಡಗಿ ಕೆಲಸ</string>
+    <string name="agriculture">ಕೃಷಿ</string>
+    <string name="upcoming_sessions">ಮುಂಬರುವ ಅವಧಿಗಳು</string>
+    <string name="student_requests">ವಿದ್ಯಾರ್ಥಿ ವಿನಂತಿಗಳು</string>
+    <string name="thank_you_notes">ಧನ್ಯವಾದ ಪತ್ರಗಳು</string>
+    <string name="schedule_new">ಹೊಸ ಅವಧಿಯನ್ನು ನಿಗದಿಪಡಿಸಿ</string>
+    <string name="join_session">ಅವಧಿಗೆ ಸೇರಿ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="font_size">ಅಕ್ಷರದ ಗಾತ್ರ</string>
+</resources>

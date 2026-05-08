@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryVariant">#388E3C</color>
+    <color name="colorSecondary">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+    <string name="agriculture">Agriculture</string>
+    <string name="app_name">Nimma-Guru</string>
+    <string name="bio">Short Bio</string>
+    <string name="carpentry">Carpentry</string>
+    <string name="english">English</string>
+    <string name="font_size">Font Size</string>
+    <string name="free_hours">Free Hours/Days</string>
+    <string name="full_name">Full Name</string>
+    <string name="gcm_defaultSenderId" translatable="false">84771037248</string>
+    <string name="google_api_key" translatable="false">AIzaSyD03pwkwlzXGIu_RN20tSJaRxVnIxs2z_4</string>
+    <string name="google_app_id" translatable="false">1:84771037248:android:adfe89a5223ed1581c3fa5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD03pwkwlzXGIu_RN20tSJaRxVnIxs2z_4</string>
+    <string name="google_storage_bucket" translatable="false">nimma-guru-1bdc0.firebasestorage.app</string>
+    <string name="i_am_guru">I am a Guru</string>
+    <string name="i_am_student">I am a Student</string>
+    <string name="join_session">Join Session</string>
+    <string name="kannada">Kannada</string>
+    <string name="language">Language</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="math">Math</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pincode">Pincode</string>
+    <string name="project_id" translatable="false">nimma-guru-1bdc0</string>
+    <string name="save">Save</string>
+    <string name="schedule_new">Schedule New Session</string>
+    <string name="science">Science</string>
+    <string name="settings">Settings</string>
+    <string name="student_requests">Student Requests</string>
+    <string name="subjects">Subject Skills</string>
+    <string name="tagline">Gyaan-Daan: Give the Gift of Knowledge</string>
+    <string name="thank_you_notes">Thank You Notes</string>
+    <string name="upcoming_sessions">Upcoming Sessions</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="village">Village/Area</string>
+    <style name="Theme.NimmaGuru" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        
+        <item name="colorPrimaryContainer">#388E3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#FF9800</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="android:statusBarColor">#388E3C</item>
+    </style>
+    <style name="Widget.Material3.Button.Error" parent="Widget.Material3.Button">
+        <item name="backgroundTint">#B00020</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

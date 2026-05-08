@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_guru_detail.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_guru_detail.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_wall_of_fame.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_wall_of_fame.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_login.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-merged_res-37:/drawable_ic_person_placeholder.xml.flat",
+        "source": "com.nimmaguru.app-main-39:/drawable/ic_person_placeholder.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_guru_dashboard.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_guru_dashboard.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-merged_res-37:/drawable_ic_add.xml.flat",
+        "source": "com.nimmaguru.app-main-39:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_session_schedule.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_session_schedule.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_splash.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_student_home.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_student_home.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_guru_profile_setup.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_guru_profile_setup.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_settings.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/layout_activity_calendar.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-merged_res-37:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/home/prathvihan1008/.gradle/daemon/9.0-milestone-1/com.nimmaguru.app-main-39:/mipmap-hdpi/ic_launcher.xml"
+    }
+]

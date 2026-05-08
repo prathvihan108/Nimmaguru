@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">84771037248</string>
+    <string name="google_api_key" translatable="false">AIzaSyD03pwkwlzXGIu_RN20tSJaRxVnIxs2z_4</string>
+    <string name="google_app_id" translatable="false">1:84771037248:android:adfe89a5223ed1581c3fa5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD03pwkwlzXGIu_RN20tSJaRxVnIxs2z_4</string>
+    <string name="google_storage_bucket" translatable="false">nimma-guru-1bdc0.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nimma-guru-1bdc0</string>
+</resources>
